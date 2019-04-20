@@ -1,0 +1,30 @@
+익스9 하위버전에서 틀어질때
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+ 
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+
+메뉴 z-index 틀어질 때
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+
+
+
+익스 웹표준 메타태그
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9" />
+
+
+
+
+* 익스플로러10버전에서는 장바구니화면에서 수량조정이 정상적으로 작동되지 않으니
+
+  쇼핑몰 구축 > 쇼핑몰 기본정보 설정 > 인사말/메인소개글 페이지의 [쇼핑몰 메타태그 등록] 메뉴에
+
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8" /> 입력하여 강제로 익스8버전에 맞춰 이용하시면 됩니다.
+
+  위와같이 입력하여 이용시, 모든페이지 익스8버전에 맞춰 쇼핑몰 확인됩니다.
