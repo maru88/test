@@ -1,0 +1,43 @@
+@media only screen and (max-width:608px){nav#menu span.fa.fa-bars{left:60px; font-size:30px;}
+.header-text.btn{height:auto;white-space:inherit;}
+.hover-bg .hover-text{padding:15% 0;}
+}
+@media only screen and (max-width:460px){h3{font-size:12px;}
+nav#menu span.fa.fa-bars{left:30px;}
+.content{padding-top:10%;}
+.hover-bg .hover-text{padding:20% 0;}
+#overview-video .overlay{padding:30% 0px;}
+}
+@media only screen and (max-width:360px){h1{font-size:36px;}
+h3{font-size:11px;}
+hover-bg .hover-text{padding:25% 0px;}
+.pull-left,
+.pull-right{float:none !important;text-align:center;}
+}
+@media only screen and (max-width:320px){h1{font-size:30px;}
+hover-bg .hover-text{padding:30% 0px;}
+}
+
+@media only screen and (max-width:608px){
+  #head-title {font-size:1.0em;}
+  .header-text.btn h1 {font-size:1.0em; margin:0px;}
+  .header-text.btn {padding:20px !important;}
+  .f20 {
+    font-size: 16px !important;
+    margin-bottom: 30px;
+  }
+  .inner {
+    width: 90%;
+  }
+
+  .inner > div:last-child {
+      padding-left: 20px;
+  }
+
+  .inner > div {
+    padding-right: 20px;
+  }
+  .pull-left p {font-size:11px;}
+  .colorhead3 {font-size:10px;}
+}
+
